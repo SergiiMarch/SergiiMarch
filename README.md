@@ -2,7 +2,7 @@
 
 ## Connect with me:
 
-🟢 [telegram](._S{S:#M,P:#V,})
+🟢 [telegram](@Sergii_Mch)
 
 <!--
 **SergiiMarch/SergiiMarch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
