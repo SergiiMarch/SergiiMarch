@@ -1,8 +1,6 @@
 # Hi, my name is Sergii 👋
 
-## Connect with me:
-
-🟢 [telegram](@Sergii_Mch)
+![it]()
 
 <!--
 **SergiiMarch/SergiiMarch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
