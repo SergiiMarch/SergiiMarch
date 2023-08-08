@@ -4,8 +4,6 @@
 
 🟢 [telegram](._S{S:#M,P:#V,})
 
-🟢 [e-mail](visionsmarik@gmail.com)
-
 <!--
 **SergiiMarch/SergiiMarch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
