@@ -1,6 +1,6 @@
 # Hi, my name is Sergii 👋
 
-![it]()
+![it](./wallpers/IMG_5801.JPG)
 
 <!--
 **SergiiMarch/SergiiMarch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
