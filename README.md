@@ -5,7 +5,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergiiMarch&layout=compact)](https://github.com/SergiiMarch)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SergiiMarch)](https://git.io/streak-stats)
-[![codewars](https://www.codewars.com/users/SergiiMarch/badges/large)
+![codewars](https://www.codewars.com/users/SergiiMarch/badges/large)
 
 
 
