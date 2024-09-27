@@ -2,14 +2,16 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I live in Ukraine 🇺🇦</h3>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergiiMarch&layout=compact)](https://github.com/SergiiMarch)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=SergiiMarch)](https://git.io/streak-stats)
 ![codewars](https://www.codewars.com/users/SergiiMarch/badges/large)
 
-
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 
 
